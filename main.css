@@ -15,6 +15,7 @@ body {
 #team-cont .team-crest {
 	list-style: none;
 	padding: 0 5px;
+	cursor: pointer;
 }
 #team-cont .team-crest img {
 	max-width: 50px;
@@ -38,7 +39,8 @@ body {
 .next-game-teams .vs {
 	font-size: 36px;
 }
-.next-game-date {
+.next-game-date, .next-game-channel {
 	text-align: center;
 	font-weight: bold;
+	padding: 5px 0;
 }
