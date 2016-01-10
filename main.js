@@ -1,5 +1,5 @@
 var today = new Date().toISOString();
-var team = "Tottenham Hotspur FC";
+var team = localStorage.team || 'spurs';
 var teamCont = document.querySelector('#team-cont');
 var nextGameCont = document.querySelector('#next-game-cont');
 var fixtures;
@@ -12,15 +12,19 @@ function fixturesForTeam(fixtures, team) {
 }
 
 function changeTeam(e) {
-	team = e.target.textContent;
+	team = localStorage.team = e.currentTarget.dataset.team;
 	writeNextGame();
 }
 
 function writeTeams() {
 	teams.forEach(function(t) {
 		var li = document.createElement('li');
-		li.textContent = t;
+            var img = document.createElement('img');
+            img.src = 'images/crests/' + t + '.png';
 		li.onclick = changeTeam;
+            li.className = 'team-crest';
+            li.setAttribute('data-team', t);
+            li.appendChild(img);
 		teamCont.appendChild(li);
 	});
 }
@@ -32,7 +36,10 @@ function writeNextGame() {
 	});
 	var nextFixture = futureFixtures[0];
 	nextGameCont.querySelector('.next-game-date').innerHTML = new Date(nextFixture.date).toGMTString();
-	nextGameCont.querySelector('.next-game-teams').innerHTML = nextFixture.home + ' vs ' + nextFixture.away;	
+	nextGameCont.querySelector('.next-game-teams').innerHTML =
+            "<img class='team-crest team-home' src='images/crests/" + nextFixture.home + ".png'></img>" +
+            "<span class='vs'>vs</span>" +
+            "<img class='team-crest team-away' src='images/crests/" + nextFixture.away + ".png'></img>";
 }
 
 function parseFixtures(json) {

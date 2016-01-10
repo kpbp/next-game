@@ -1,0 +1,44 @@
+body {
+	font-family: helvetica, sans-serif;
+}
+
+.main-cont {
+	padding: 20px;
+}
+#team-cont {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-around;
+	padding: 0;
+}
+
+#team-cont .team-crest {
+	list-style: none;
+	padding: 0 5px;
+}
+#team-cont .team-crest img {
+	max-width: 50px;
+	max-height: 50px;
+}
+
+.next-game-teams {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0 30px;
+    height: 200px;
+}
+.next-game-teams > * {
+	padding: 0 20px;
+}
+.next-game-teams .team-crest {
+	max-width: 150px;
+	max-height: 150px;
+}
+.next-game-teams .vs {
+	font-size: 36px;
+}
+.next-game-date {
+	text-align: center;
+	font-weight: bold;
+}
