@@ -1,1902 +1,1902 @@
 [
 {
-"home": "Manchester United FC",
-"away": "Tottenham Hotspur FC",
+"home": "man-utd",
+"away": "spurs",
 "date": "2015-08-08T11:45:00Z"
 },
 {
-"home": "Everton FC",
-"away": "Watford FC",
+"home": "everton",
+"away": "watford",
 "date": "2015-08-08T14:00:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "Aston Villa FC",
+"home": "bournemouth",
+"away": "aston-villa",
 "date": "2015-08-08T14:00:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "Sunderland AFC",
+"home": "leicester",
+"away": "sunderland",
 "date": "2015-08-08T14:00:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "Crystal Palace FC",
+"home": "norwich",
+"away": "crystal-palace",
 "date": "2015-08-08T14:00:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "Swansea City FC",
+"home": "chelsea",
+"away": "swansea",
 "date": "2015-08-08T16:30:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "West Ham United FC",
+"home": "arsenal",
+"away": "west-ham",
 "date": "2015-08-09T12:30:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "Southampton FC",
+"home": "newcastle",
+"away": "southampton",
 "date": "2015-08-09T12:30:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "Liverpool FC",
+"home": "stoke",
+"away": "liverpool",
 "date": "2015-08-09T15:00:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "Manchester City FC",
+"home": "west-brom",
+"away": "man-city",
 "date": "2015-08-10T19:00:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "Manchester United FC",
+"home": "aston-villa",
+"away": "man-utd",
 "date": "2015-08-14T18:45:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "Everton FC",
+"home": "southampton",
+"away": "everton",
 "date": "2015-08-15T11:45:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "Leicester City FC",
+"home": "west-ham",
+"away": "leicester",
 "date": "2015-08-15T14:00:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "Norwich City FC",
+"home": "sunderland",
+"away": "norwich",
 "date": "2015-08-15T14:00:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "Newcastle United FC",
+"home": "swansea",
+"away": "newcastle",
 "date": "2015-08-15T14:00:00Z"
 },
 {
-"home": "Watford FC",
-"away": "West Bromwich Albion FC",
+"home": "watford",
+"away": "west-brom",
 "date": "2015-08-15T14:00:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "Stoke City FC",
+"home": "spurs",
+"away": "stoke",
 "date": "2015-08-15T14:00:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "Arsenal FC",
+"home": "crystal-palace",
+"away": "arsenal",
 "date": "2015-08-16T12:30:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "Chelsea FC",
+"home": "man-city",
+"away": "chelsea",
 "date": "2015-08-16T15:00:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "AFC Bournemouth",
+"home": "liverpool",
+"away": "bournemouth",
 "date": "2015-08-17T19:00:00Z"
 },
 {
-"home": "Manchester United FC",
-"away": "Newcastle United FC",
+"home": "man-utd",
+"away": "newcastle",
 "date": "2015-08-22T11:45:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "Tottenham Hotspur FC",
+"home": "leicester",
+"away": "spurs",
 "date": "2015-08-22T14:00:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "Aston Villa FC",
+"home": "crystal-palace",
+"away": "aston-villa",
 "date": "2015-08-22T14:00:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "Stoke City FC",
+"home": "norwich",
+"away": "stoke",
 "date": "2015-08-22T14:00:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "Swansea City FC",
+"home": "sunderland",
+"away": "swansea",
 "date": "2015-08-22T14:00:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "AFC Bournemouth",
+"home": "west-ham",
+"away": "bournemouth",
 "date": "2015-08-22T14:00:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "Chelsea FC",
+"home": "west-brom",
+"away": "chelsea",
 "date": "2015-08-23T12:30:00Z"
 },
 {
-"home": "Everton FC",
-"away": "Manchester City FC",
+"home": "everton",
+"away": "man-city",
 "date": "2015-08-23T15:00:00Z"
 },
 {
-"home": "Watford FC",
-"away": "Southampton FC",
+"home": "watford",
+"away": "southampton",
 "date": "2015-08-23T15:00:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "Liverpool FC",
+"home": "arsenal",
+"away": "liverpool",
 "date": "2015-08-24T19:00:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "Arsenal FC",
+"home": "newcastle",
+"away": "arsenal",
 "date": "2015-08-29T11:45:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "West Ham United FC",
+"home": "liverpool",
+"away": "west-ham",
 "date": "2015-08-29T14:00:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "West Bromwich Albion FC",
+"home": "stoke",
+"away": "west-brom",
 "date": "2015-08-29T14:00:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "Watford FC",
+"home": "man-city",
+"away": "watford",
 "date": "2015-08-29T14:00:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "Leicester City FC",
+"home": "bournemouth",
+"away": "leicester",
 "date": "2015-08-29T14:00:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "Crystal Palace FC",
+"home": "chelsea",
+"away": "crystal-palace",
 "date": "2015-08-29T14:00:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "Sunderland AFC",
+"home": "aston-villa",
+"away": "sunderland",
 "date": "2015-08-29T14:00:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "Everton FC",
+"home": "spurs",
+"away": "everton",
 "date": "2015-08-29T16:30:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "Norwich City FC",
+"home": "southampton",
+"away": "norwich",
 "date": "2015-08-30T12:30:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "Manchester United FC",
+"home": "swansea",
+"away": "man-utd",
 "date": "2015-08-30T15:00:00Z"
 },
 {
-"home": "Everton FC",
-"away": "Chelsea FC",
+"home": "everton",
+"away": "chelsea",
 "date": "2015-09-12T11:45:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "Southampton FC",
+"home": "west-brom",
+"away": "southampton",
 "date": "2015-09-12T14:00:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "AFC Bournemouth",
+"home": "norwich",
+"away": "bournemouth",
 "date": "2015-09-12T14:00:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "Manchester City FC",
+"home": "crystal-palace",
+"away": "man-city",
 "date": "2015-09-12T14:00:00Z"
 },
 {
-"home": "Watford FC",
-"away": "Swansea City FC",
+"home": "watford",
+"away": "swansea",
 "date": "2015-09-12T14:00:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "Stoke City FC",
+"home": "arsenal",
+"away": "stoke",
 "date": "2015-09-12T14:00:00Z"
 },
 {
-"home": "Manchester United FC",
-"away": "Liverpool FC",
+"home": "man-utd",
+"away": "liverpool",
 "date": "2015-09-12T16:30:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "Tottenham Hotspur FC",
+"home": "sunderland",
+"away": "spurs",
 "date": "2015-09-13T12:30:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "Aston Villa FC",
+"home": "leicester",
+"away": "aston-villa",
 "date": "2015-09-13T15:00:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "Newcastle United FC",
+"home": "west-ham",
+"away": "newcastle",
 "date": "2015-09-14T19:00:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "Arsenal FC",
+"home": "chelsea",
+"away": "arsenal",
 "date": "2015-09-19T11:45:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "Sunderland AFC",
+"home": "bournemouth",
+"away": "sunderland",
 "date": "2015-09-19T14:00:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "Everton FC",
+"home": "swansea",
+"away": "everton",
 "date": "2015-09-19T14:00:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "West Bromwich Albion FC",
+"home": "aston-villa",
+"away": "west-brom",
 "date": "2015-09-19T14:00:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "Leicester City FC",
+"home": "stoke",
+"away": "leicester",
 "date": "2015-09-19T14:00:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "Watford FC",
+"home": "newcastle",
+"away": "watford",
 "date": "2015-09-19T14:00:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "West Ham United FC",
+"home": "man-city",
+"away": "west-ham",
 "date": "2015-09-19T16:30:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "Crystal Palace FC",
+"home": "spurs",
+"away": "crystal-palace",
 "date": "2015-09-20T12:30:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "Manchester United FC",
+"home": "southampton",
+"away": "man-utd",
 "date": "2015-09-20T15:00:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "Norwich City FC",
+"home": "liverpool",
+"away": "norwich",
 "date": "2015-09-20T15:00:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "Manchester City FC",
+"home": "spurs",
+"away": "man-city",
 "date": "2015-09-26T11:45:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "AFC Bournemouth",
+"home": "stoke",
+"away": "bournemouth",
 "date": "2015-09-26T14:00:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "Norwich City FC",
+"home": "west-ham",
+"away": "norwich",
 "date": "2015-09-26T14:00:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "Swansea City FC",
+"home": "southampton",
+"away": "swansea",
 "date": "2015-09-26T14:00:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "Arsenal FC",
+"home": "leicester",
+"away": "arsenal",
 "date": "2015-09-26T14:00:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "Aston Villa FC",
+"home": "liverpool",
+"away": "aston-villa",
 "date": "2015-09-26T14:00:00Z"
 },
 {
-"home": "Manchester United FC",
-"away": "Sunderland AFC",
+"home": "man-utd",
+"away": "sunderland",
 "date": "2015-09-26T14:00:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "Chelsea FC",
+"home": "newcastle",
+"away": "chelsea",
 "date": "2015-09-26T16:30:00Z"
 },
 {
-"home": "Watford FC",
-"away": "Crystal Palace FC",
+"home": "watford",
+"away": "crystal-palace",
 "date": "2015-09-27T15:00:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "Everton FC",
+"home": "west-brom",
+"away": "everton",
 "date": "2015-09-28T19:00:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "West Bromwich Albion FC",
+"home": "crystal-palace",
+"away": "west-brom",
 "date": "2015-10-03T11:45:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "West Ham United FC",
+"home": "sunderland",
+"away": "west-ham",
 "date": "2015-10-03T14:00:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "Leicester City FC",
+"home": "norwich",
+"away": "leicester",
 "date": "2015-10-03T14:00:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "Stoke City FC",
+"home": "aston-villa",
+"away": "stoke",
 "date": "2015-10-03T14:00:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "Newcastle United FC",
+"home": "man-city",
+"away": "newcastle",
 "date": "2015-10-03T14:00:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "Watford FC",
+"home": "bournemouth",
+"away": "watford",
 "date": "2015-10-03T14:00:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "Southampton FC",
+"home": "chelsea",
+"away": "southampton",
 "date": "2015-10-03T16:30:00Z"
 },
 {
-"home": "Everton FC",
-"away": "Liverpool FC",
+"home": "everton",
+"away": "liverpool",
 "date": "2015-10-04T12:30:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "Tottenham Hotspur FC",
+"home": "swansea",
+"away": "spurs",
 "date": "2015-10-04T15:00:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "Manchester United FC",
+"home": "arsenal",
+"away": "man-utd",
 "date": "2015-10-04T15:00:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "Liverpool FC",
+"home": "spurs",
+"away": "liverpool",
 "date": "2015-10-17T11:45:00Z"
 },
 {
-"home": "Everton FC",
-"away": "Manchester United FC",
+"home": "everton",
+"away": "man-utd",
 "date": "2015-10-17T14:00:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "Aston Villa FC",
+"home": "chelsea",
+"away": "aston-villa",
 "date": "2015-10-17T14:00:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "AFC Bournemouth",
+"home": "man-city",
+"away": "bournemouth",
 "date": "2015-10-17T14:00:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "Sunderland AFC",
+"home": "west-brom",
+"away": "sunderland",
 "date": "2015-10-17T14:00:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "West Ham United FC",
+"home": "crystal-palace",
+"away": "west-ham",
 "date": "2015-10-17T14:00:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "Leicester City FC",
+"home": "southampton",
+"away": "leicester",
 "date": "2015-10-17T14:00:00Z"
 },
 {
-"home": "Watford FC",
-"away": "Arsenal FC",
+"home": "watford",
+"away": "arsenal",
 "date": "2015-10-17T16:30:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "Norwich City FC",
+"home": "newcastle",
+"away": "norwich",
 "date": "2015-10-18T15:00:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "Stoke City FC",
+"home": "swansea",
+"away": "stoke",
 "date": "2015-10-19T19:00:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "Chelsea FC",
+"home": "west-ham",
+"away": "chelsea",
 "date": "2015-10-24T14:00:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "Swansea City FC",
+"home": "aston-villa",
+"away": "swansea",
 "date": "2015-10-24T14:00:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "Crystal Palace FC",
+"home": "leicester",
+"away": "crystal-palace",
 "date": "2015-10-24T14:00:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "West Bromwich Albion FC",
+"home": "norwich",
+"away": "west-brom",
 "date": "2015-10-24T14:00:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "Watford FC",
+"home": "stoke",
+"away": "watford",
 "date": "2015-10-24T14:00:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "Everton FC",
+"home": "arsenal",
+"away": "everton",
 "date": "2015-10-24T16:30:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "Newcastle United FC",
+"home": "sunderland",
+"away": "newcastle",
 "date": "2015-10-25T12:00:00Z"
 },
 {
-"home": "Manchester United FC",
-"away": "Manchester City FC",
+"home": "man-utd",
+"away": "man-city",
 "date": "2015-10-25T14:05:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "Tottenham Hotspur FC",
+"home": "bournemouth",
+"away": "spurs",
 "date": "2015-10-25T14:05:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "Southampton FC",
+"home": "liverpool",
+"away": "southampton",
 "date": "2015-10-25T16:15:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "Liverpool FC",
+"home": "chelsea",
+"away": "liverpool",
 "date": "2015-10-31T12:45:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "Arsenal FC",
+"home": "swansea",
+"away": "arsenal",
 "date": "2015-10-31T15:00:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "Manchester United FC",
+"home": "crystal-palace",
+"away": "man-utd",
 "date": "2015-10-31T15:00:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "Norwich City FC",
+"home": "man-city",
+"away": "norwich",
 "date": "2015-10-31T15:00:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "Stoke City FC",
+"home": "newcastle",
+"away": "stoke",
 "date": "2015-10-31T15:00:00Z"
 },
 {
-"home": "Watford FC",
-"away": "West Ham United FC",
+"home": "watford",
+"away": "west-ham",
 "date": "2015-10-31T15:00:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "Leicester City FC",
+"home": "west-brom",
+"away": "leicester",
 "date": "2015-10-31T15:00:00Z"
 },
 {
-"home": "Everton FC",
-"away": "Sunderland AFC",
+"home": "everton",
+"away": "sunderland",
 "date": "2015-11-01T13:30:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "AFC Bournemouth",
+"home": "southampton",
+"away": "bournemouth",
 "date": "2015-11-01T16:00:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "Aston Villa FC",
+"home": "spurs",
+"away": "aston-villa",
 "date": "2015-11-02T20:00:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "Newcastle United FC",
+"home": "bournemouth",
+"away": "newcastle",
 "date": "2015-11-07T12:45:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "Southampton FC",
+"home": "sunderland",
+"away": "southampton",
 "date": "2015-11-07T15:00:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "Swansea City FC",
+"home": "norwich",
+"away": "swansea",
 "date": "2015-11-07T15:00:00Z"
 },
 {
-"home": "Manchester United FC",
-"away": "West Bromwich Albion FC",
+"home": "man-utd",
+"away": "west-brom",
 "date": "2015-11-07T15:00:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "Watford FC",
+"home": "leicester",
+"away": "watford",
 "date": "2015-11-07T15:00:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "Everton FC",
+"home": "west-ham",
+"away": "everton",
 "date": "2015-11-07T15:00:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "Chelsea FC",
+"home": "stoke",
+"away": "chelsea",
 "date": "2015-11-07T17:30:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "Manchester City FC",
+"home": "aston-villa",
+"away": "man-city",
 "date": "2015-11-08T13:30:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "Crystal Palace FC",
+"home": "liverpool",
+"away": "crystal-palace",
 "date": "2015-11-08T16:00:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "Tottenham Hotspur FC",
+"home": "arsenal",
+"away": "spurs",
 "date": "2015-11-08T16:00:00Z"
 },
 {
-"home": "Watford FC",
-"away": "Manchester United FC",
+"home": "watford",
+"away": "man-utd",
 "date": "2015-11-21T12:45:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "Stoke City FC",
+"home": "southampton",
+"away": "stoke",
 "date": "2015-11-21T15:00:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "Leicester City FC",
+"home": "newcastle",
+"away": "leicester",
 "date": "2015-11-21T15:00:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "Norwich City FC",
+"home": "chelsea",
+"away": "norwich",
 "date": "2015-11-21T15:00:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "Arsenal FC",
+"home": "west-brom",
+"away": "arsenal",
 "date": "2015-11-21T15:00:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "AFC Bournemouth",
+"home": "swansea",
+"away": "bournemouth",
 "date": "2015-11-21T15:00:00Z"
 },
 {
-"home": "Everton FC",
-"away": "Aston Villa FC",
+"home": "everton",
+"away": "aston-villa",
 "date": "2015-11-21T15:00:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "Liverpool FC",
+"home": "man-city",
+"away": "liverpool",
 "date": "2015-11-21T17:30:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "West Ham United FC",
+"home": "spurs",
+"away": "west-ham",
 "date": "2015-11-22T16:00:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "Sunderland AFC",
+"home": "crystal-palace",
+"away": "sunderland",
 "date": "2015-11-23T20:00:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "Southampton FC",
+"home": "man-city",
+"away": "southampton",
 "date": "2015-11-28T15:00:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "Newcastle United FC",
+"home": "crystal-palace",
+"away": "newcastle",
 "date": "2015-11-28T15:00:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "Watford FC",
+"home": "aston-villa",
+"away": "watford",
 "date": "2015-11-28T15:00:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "Stoke City FC",
+"home": "sunderland",
+"away": "stoke",
 "date": "2015-11-28T15:00:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "Everton FC",
+"home": "bournemouth",
+"away": "everton",
 "date": "2015-11-28T15:00:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "Manchester United FC",
+"home": "leicester",
+"away": "man-utd",
 "date": "2015-11-28T17:30:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "Chelsea FC",
+"home": "spurs",
+"away": "chelsea",
 "date": "2015-11-29T12:00:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "West Bromwich Albion FC",
+"home": "west-ham",
+"away": "west-brom",
 "date": "2015-11-29T14:05:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "Arsenal FC",
+"home": "norwich",
+"away": "arsenal",
 "date": "2015-11-29T16:15:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "Swansea City FC",
+"home": "liverpool",
+"away": "swansea",
 "date": "2015-11-29T16:15:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "Aston Villa FC",
+"home": "southampton",
+"away": "aston-villa",
 "date": "2015-12-05T15:00:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "Manchester City FC",
+"home": "stoke",
+"away": "man-city",
 "date": "2015-12-05T15:00:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "Leicester City FC",
+"home": "swansea",
+"away": "leicester",
 "date": "2015-12-05T15:00:00Z"
 },
 {
-"home": "Watford FC",
-"away": "Norwich City FC",
+"home": "watford",
+"away": "norwich",
 "date": "2015-12-05T15:00:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "Tottenham Hotspur FC",
+"home": "west-brom",
+"away": "spurs",
 "date": "2015-12-05T15:00:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "Sunderland AFC",
+"home": "arsenal",
+"away": "sunderland",
 "date": "2015-12-05T15:00:00Z"
 },
 {
-"home": "Manchester United FC",
-"away": "West Ham United FC",
+"home": "man-utd",
+"away": "west-ham",
 "date": "2015-12-05T15:00:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "AFC Bournemouth",
+"home": "chelsea",
+"away": "bournemouth",
 "date": "2015-12-05T17:30:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "Liverpool FC",
+"home": "newcastle",
+"away": "liverpool",
 "date": "2015-12-06T16:00:00Z"
 },
 {
-"home": "Everton FC",
-"away": "Crystal Palace FC",
+"home": "everton",
+"away": "crystal-palace",
 "date": "2015-12-07T20:00:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "Everton FC",
+"home": "norwich",
+"away": "everton",
 "date": "2015-12-12T12:45:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "Stoke City FC",
+"home": "west-ham",
+"away": "stoke",
 "date": "2015-12-12T15:00:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "Southampton FC",
+"home": "crystal-palace",
+"away": "southampton",
 "date": "2015-12-12T15:00:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "Watford FC",
+"home": "sunderland",
+"away": "watford",
 "date": "2015-12-12T15:00:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "Swansea City FC",
+"home": "man-city",
+"away": "swansea",
 "date": "2015-12-12T15:00:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "Manchester United FC",
+"home": "bournemouth",
+"away": "man-utd",
 "date": "2015-12-12T17:30:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "Arsenal FC",
+"home": "aston-villa",
+"away": "arsenal",
 "date": "2015-12-13T13:30:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "West Bromwich Albion FC",
+"home": "liverpool",
+"away": "west-brom",
 "date": "2015-12-13T16:00:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "Newcastle United FC",
+"home": "spurs",
+"away": "newcastle",
 "date": "2015-12-13T16:00:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "Chelsea FC",
+"home": "leicester",
+"away": "chelsea",
 "date": "2015-12-14T20:00:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "AFC Bournemouth",
+"home": "west-brom",
+"away": "bournemouth",
 "date": "2015-12-19T15:00:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "Crystal Palace FC",
+"home": "stoke",
+"away": "crystal-palace",
 "date": "2015-12-19T15:00:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "Tottenham Hotspur FC",
+"home": "southampton",
+"away": "spurs",
 "date": "2015-12-19T15:00:00Z"
 },
 {
-"home": "Manchester United FC",
-"away": "Norwich City FC",
+"home": "man-utd",
+"away": "norwich",
 "date": "2015-12-19T15:00:00Z"
 },
 {
-"home": "Everton FC",
-"away": "Leicester City FC",
+"home": "everton",
+"away": "leicester",
 "date": "2015-12-19T15:00:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "Sunderland AFC",
+"home": "chelsea",
+"away": "sunderland",
 "date": "2015-12-19T15:00:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "Aston Villa FC",
+"home": "newcastle",
+"away": "aston-villa",
 "date": "2015-12-19T17:30:00Z"
 },
 {
-"home": "Watford FC",
-"away": "Liverpool FC",
+"home": "watford",
+"away": "liverpool",
 "date": "2015-12-20T13:30:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "West Ham United FC",
+"home": "swansea",
+"away": "west-ham",
 "date": "2015-12-20T16:00:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "Manchester City FC",
+"home": "arsenal",
+"away": "man-city",
 "date": "2015-12-21T20:00:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "Manchester United FC",
+"home": "stoke",
+"away": "man-utd",
 "date": "2015-12-26T12:45:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "West Ham United FC",
+"home": "aston-villa",
+"away": "west-ham",
 "date": "2015-12-26T15:00:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "Sunderland AFC",
+"home": "man-city",
+"away": "sunderland",
 "date": "2015-12-26T15:00:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "Leicester City FC",
+"home": "liverpool",
+"away": "leicester",
 "date": "2015-12-26T15:00:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "Watford FC",
+"home": "chelsea",
+"away": "watford",
 "date": "2015-12-26T15:00:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "Norwich City FC",
+"home": "spurs",
+"away": "norwich",
 "date": "2015-12-26T15:00:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "West Bromwich Albion FC",
+"home": "swansea",
+"away": "west-brom",
 "date": "2015-12-26T15:00:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "Crystal Palace FC",
+"home": "bournemouth",
+"away": "crystal-palace",
 "date": "2015-12-26T15:00:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "Everton FC",
+"home": "newcastle",
+"away": "everton",
 "date": "2015-12-26T17:30:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "Arsenal FC",
+"home": "southampton",
+"away": "arsenal",
 "date": "2015-12-26T19:45:00Z"
 },
 {
-"home": "Watford FC",
-"away": "Tottenham Hotspur FC",
+"home": "watford",
+"away": "spurs",
 "date": "2015-12-28T15:00:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "Swansea City FC",
+"home": "crystal-palace",
+"away": "swansea",
 "date": "2015-12-28T15:00:00Z"
 },
 {
-"home": "Everton FC",
-"away": "Stoke City FC",
+"home": "everton",
+"away": "stoke",
 "date": "2015-12-28T15:00:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "Aston Villa FC",
+"home": "norwich",
+"away": "aston-villa",
 "date": "2015-12-28T15:00:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "Newcastle United FC",
+"home": "west-brom",
+"away": "newcastle",
 "date": "2015-12-28T15:00:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "Southampton FC",
+"home": "west-ham",
+"away": "southampton",
 "date": "2015-12-28T17:30:00Z"
 },
 {
-"home": "Manchester United FC",
-"away": "Chelsea FC",
+"home": "man-utd",
+"away": "chelsea",
 "date": "2015-12-28T17:30:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "AFC Bournemouth",
+"home": "arsenal",
+"away": "bournemouth",
 "date": "2015-12-28T17:30:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "Manchester City FC",
+"home": "leicester",
+"away": "man-city",
 "date": "2015-12-29T19:45:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "Liverpool FC",
+"home": "sunderland",
+"away": "liverpool",
 "date": "2015-12-30T19:45:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "Liverpool FC",
+"home": "west-ham",
+"away": "liverpool",
 "date": "2016-01-02T12:45:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "Newcastle United FC",
+"home": "arsenal",
+"away": "newcastle",
 "date": "2016-01-02T15:00:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "AFC Bournemouth",
+"home": "leicester",
+"away": "bournemouth",
 "date": "2016-01-02T15:00:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "Stoke City FC",
+"home": "west-brom",
+"away": "stoke",
 "date": "2016-01-02T15:00:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "Aston Villa FC",
+"home": "sunderland",
+"away": "aston-villa",
 "date": "2016-01-02T15:00:00Z"
 },
 {
-"home": "Manchester United FC",
-"away": "Swansea City FC",
+"home": "man-utd",
+"away": "swansea",
 "date": "2016-01-02T15:00:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "Southampton FC",
+"home": "norwich",
+"away": "southampton",
 "date": "2016-01-02T15:00:00Z"
 },
 {
-"home": "Watford FC",
-"away": "Manchester City FC",
+"home": "watford",
+"away": "man-city",
 "date": "2016-01-02T17:30:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "Chelsea FC",
+"home": "crystal-palace",
+"away": "chelsea",
 "date": "2016-01-03T13:30:00Z"
 },
 {
-"home": "Everton FC",
-"away": "Tottenham Hotspur FC",
+"home": "everton",
+"away": "spurs",
 "date": "2016-01-03T16:00:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "Sunderland AFC",
+"home": "swansea",
+"away": "sunderland",
 "date": "2016-01-12T19:45:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "Crystal Palace FC",
+"home": "aston-villa",
+"away": "crystal-palace",
 "date": "2016-01-12T19:45:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "Manchester United FC",
+"home": "newcastle",
+"away": "man-utd",
 "date": "2016-01-12T19:45:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "West Ham United FC",
+"home": "bournemouth",
+"away": "west-ham",
 "date": "2016-01-12T19:45:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "West Bromwich Albion FC",
+"home": "chelsea",
+"away": "west-brom",
 "date": "2016-01-13T19:45:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "Everton FC",
+"home": "man-city",
+"away": "everton",
 "date": "2016-01-13T19:45:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "Watford FC",
+"home": "southampton",
+"away": "watford",
 "date": "2016-01-13T19:45:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "Norwich City FC",
+"home": "stoke",
+"away": "norwich",
 "date": "2016-01-13T19:45:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "Leicester City FC",
+"home": "spurs",
+"away": "leicester",
 "date": "2016-01-13T20:00:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "Arsenal FC",
+"home": "liverpool",
+"away": "arsenal",
 "date": "2016-01-13T20:00:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "Sunderland AFC",
+"home": "spurs",
+"away": "sunderland",
 "date": "2016-01-16T12:45:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "Norwich City FC",
+"home": "bournemouth",
+"away": "norwich",
 "date": "2016-01-16T15:00:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "Everton FC",
+"home": "chelsea",
+"away": "everton",
 "date": "2016-01-16T15:00:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "Crystal Palace FC",
+"home": "man-city",
+"away": "crystal-palace",
 "date": "2016-01-16T15:00:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "West Ham United FC",
+"home": "newcastle",
+"away": "west-ham",
 "date": "2016-01-16T15:00:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "West Bromwich Albion FC",
+"home": "southampton",
+"away": "west-brom",
 "date": "2016-01-16T15:00:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "Leicester City FC",
+"home": "aston-villa",
+"away": "leicester",
 "date": "2016-01-16T17:30:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "Manchester United FC",
+"home": "liverpool",
+"away": "man-utd",
 "date": "2016-01-17T14:05:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "Arsenal FC",
+"home": "stoke",
+"away": "arsenal",
 "date": "2016-01-17T16:15:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "Watford FC",
+"home": "swansea",
+"away": "watford",
 "date": "2016-01-18T20:00:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "Liverpool FC",
+"home": "norwich",
+"away": "liverpool",
 "date": "2016-01-23T12:45:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "AFC Bournemouth",
+"home": "sunderland",
+"away": "bournemouth",
 "date": "2016-01-23T15:00:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "Aston Villa FC",
+"home": "west-brom",
+"away": "aston-villa",
 "date": "2016-01-23T15:00:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "Tottenham Hotspur FC",
+"home": "crystal-palace",
+"away": "spurs",
 "date": "2016-01-23T15:00:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "Stoke City FC",
+"home": "leicester",
+"away": "stoke",
 "date": "2016-01-23T15:00:00Z"
 },
 {
-"home": "Manchester United FC",
-"away": "Southampton FC",
+"home": "man-utd",
+"away": "southampton",
 "date": "2016-01-23T15:00:00Z"
 },
 {
-"home": "Watford FC",
-"away": "Newcastle United FC",
+"home": "watford",
+"away": "newcastle",
 "date": "2016-01-23T15:00:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "Manchester City FC",
+"home": "west-ham",
+"away": "man-city",
 "date": "2016-01-23T17:30:00Z"
 },
 {
-"home": "Everton FC",
-"away": "Swansea City FC",
+"home": "everton",
+"away": "swansea",
 "date": "2016-01-24T13:30:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "Chelsea FC",
+"home": "arsenal",
+"away": "chelsea",
 "date": "2016-01-24T16:00:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "Tottenham Hotspur FC",
+"home": "norwich",
+"away": "spurs",
 "date": "2016-02-02T19:45:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "Aston Villa FC",
+"home": "west-ham",
+"away": "aston-villa",
 "date": "2016-02-02T19:45:00Z"
 },
 {
-"home": "Watford FC",
-"away": "Chelsea FC",
+"home": "watford",
+"away": "chelsea",
 "date": "2016-02-02T19:45:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "Manchester City FC",
+"home": "sunderland",
+"away": "man-city",
 "date": "2016-02-02T19:45:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "Liverpool FC",
+"home": "leicester",
+"away": "liverpool",
 "date": "2016-02-02T19:45:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "Southampton FC",
+"home": "arsenal",
+"away": "southampton",
 "date": "2016-02-02T19:45:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "AFC Bournemouth",
+"home": "crystal-palace",
+"away": "bournemouth",
 "date": "2016-02-02T20:00:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "Swansea City FC",
+"home": "west-brom",
+"away": "swansea",
 "date": "2016-02-02T20:00:00Z"
 },
 {
-"home": "Manchester United FC",
-"away": "Stoke City FC",
+"home": "man-utd",
+"away": "stoke",
 "date": "2016-02-02T20:00:00Z"
 },
 {
-"home": "Everton FC",
-"away": "Newcastle United FC",
+"home": "everton",
+"away": "newcastle",
 "date": "2016-02-03T19:45:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "Arsenal FC",
+"home": "bournemouth",
+"away": "arsenal",
 "date": "2016-02-06T15:00:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "Norwich City FC",
+"home": "aston-villa",
+"away": "norwich",
 "date": "2016-02-06T15:00:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "Manchester United FC",
+"home": "chelsea",
+"away": "man-utd",
 "date": "2016-02-06T15:00:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "Sunderland AFC",
+"home": "liverpool",
+"away": "sunderland",
 "date": "2016-02-06T15:00:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "Leicester City FC",
+"home": "man-city",
+"away": "leicester",
 "date": "2016-02-06T15:00:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "West Ham United FC",
+"home": "southampton",
+"away": "west-ham",
 "date": "2016-02-06T15:00:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "Everton FC",
+"home": "stoke",
+"away": "everton",
 "date": "2016-02-06T15:00:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "Crystal Palace FC",
+"home": "swansea",
+"away": "crystal-palace",
 "date": "2016-02-06T15:00:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "Watford FC",
+"home": "spurs",
+"away": "watford",
 "date": "2016-02-06T15:00:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "West Bromwich Albion FC",
+"home": "newcastle",
+"away": "west-brom",
 "date": "2016-02-06T15:00:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "Stoke City FC",
+"home": "bournemouth",
+"away": "stoke",
 "date": "2016-02-13T15:00:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "Newcastle United FC",
+"home": "chelsea",
+"away": "newcastle",
 "date": "2016-02-13T15:00:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "Liverpool FC",
+"home": "aston-villa",
+"away": "liverpool",
 "date": "2016-02-13T15:00:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "Leicester City FC",
+"home": "arsenal",
+"away": "leicester",
 "date": "2016-02-13T15:00:00Z"
 },
 {
-"home": "Everton FC",
-"away": "West Bromwich Albion FC",
+"home": "everton",
+"away": "west-brom",
 "date": "2016-02-13T15:00:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "Tottenham Hotspur FC",
+"home": "man-city",
+"away": "spurs",
 "date": "2016-02-13T15:00:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "Watford FC",
+"home": "crystal-palace",
+"away": "watford",
 "date": "2016-02-13T15:00:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "West Ham United FC",
+"home": "norwich",
+"away": "west-ham",
 "date": "2016-02-13T15:00:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "Manchester United FC",
+"home": "sunderland",
+"away": "man-utd",
 "date": "2016-02-13T15:00:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "Southampton FC",
+"home": "swansea",
+"away": "southampton",
 "date": "2016-02-13T15:00:00Z"
 },
 {
-"home": "Watford FC",
-"away": "AFC Bournemouth",
+"home": "watford",
+"away": "bournemouth",
 "date": "2016-02-27T15:00:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "Norwich City FC",
+"home": "leicester",
+"away": "norwich",
 "date": "2016-02-27T15:00:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "Sunderland AFC",
+"home": "west-ham",
+"away": "sunderland",
 "date": "2016-02-27T15:00:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "Crystal Palace FC",
+"home": "west-brom",
+"away": "crystal-palace",
 "date": "2016-02-27T15:00:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "Swansea City FC",
+"home": "spurs",
+"away": "swansea",
 "date": "2016-02-27T15:00:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "Aston Villa FC",
+"home": "stoke",
+"away": "aston-villa",
 "date": "2016-02-27T15:00:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "Chelsea FC",
+"home": "southampton",
+"away": "chelsea",
 "date": "2016-02-27T15:00:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "Manchester City FC",
+"home": "newcastle",
+"away": "man-city",
 "date": "2016-02-27T15:00:00Z"
 },
 {
-"home": "Manchester United FC",
-"away": "Arsenal FC",
+"home": "man-utd",
+"away": "arsenal",
 "date": "2016-02-27T15:00:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "Everton FC",
+"home": "liverpool",
+"away": "everton",
 "date": "2016-02-27T15:00:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "Southampton FC",
+"home": "bournemouth",
+"away": "southampton",
 "date": "2016-03-01T19:45:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "Everton FC",
+"home": "aston-villa",
+"away": "everton",
 "date": "2016-03-01T19:45:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "Tottenham Hotspur FC",
+"home": "west-ham",
+"away": "spurs",
 "date": "2016-03-01T19:45:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "Crystal Palace FC",
+"home": "sunderland",
+"away": "crystal-palace",
 "date": "2016-03-01T19:45:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "Chelsea FC",
+"home": "norwich",
+"away": "chelsea",
 "date": "2016-03-01T19:45:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "West Bromwich Albion FC",
+"home": "leicester",
+"away": "west-brom",
 "date": "2016-03-01T19:45:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "Swansea City FC",
+"home": "arsenal",
+"away": "swansea",
 "date": "2016-03-01T19:45:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "Manchester City FC",
+"home": "liverpool",
+"away": "man-city",
 "date": "2016-03-01T20:00:00Z"
 },
 {
-"home": "Manchester United FC",
-"away": "Watford FC",
+"home": "man-utd",
+"away": "watford",
 "date": "2016-03-01T20:00:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "Newcastle United FC",
+"home": "stoke",
+"away": "newcastle",
 "date": "2016-03-02T19:45:00Z"
 },
 {
-"home": "Watford FC",
-"away": "Leicester City FC",
+"home": "watford",
+"away": "leicester",
 "date": "2016-03-05T15:00:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "Norwich City FC",
+"home": "swansea",
+"away": "norwich",
 "date": "2016-03-05T15:00:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "Manchester United FC",
+"home": "west-brom",
+"away": "man-utd",
 "date": "2016-03-05T15:00:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "Arsenal FC",
+"home": "spurs",
+"away": "arsenal",
 "date": "2016-03-05T15:00:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "Aston Villa FC",
+"home": "man-city",
+"away": "aston-villa",
 "date": "2016-03-05T15:00:00Z"
 },
 {
-"home": "Everton FC",
-"away": "West Ham United FC",
+"home": "everton",
+"away": "west-ham",
 "date": "2016-03-05T15:00:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "Liverpool FC",
+"home": "crystal-palace",
+"away": "liverpool",
 "date": "2016-03-05T15:00:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "Stoke City FC",
+"home": "chelsea",
+"away": "stoke",
 "date": "2016-03-05T15:00:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "AFC Bournemouth",
+"home": "newcastle",
+"away": "bournemouth",
 "date": "2016-03-05T15:00:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "Sunderland AFC",
+"home": "southampton",
+"away": "sunderland",
 "date": "2016-03-05T15:00:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "Swansea City FC",
+"home": "bournemouth",
+"away": "swansea",
 "date": "2016-03-12T15:00:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "Southampton FC",
+"home": "stoke",
+"away": "southampton",
 "date": "2016-03-12T15:00:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "Chelsea FC",
+"home": "liverpool",
+"away": "chelsea",
 "date": "2016-03-12T15:00:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "Tottenham Hotspur FC",
+"home": "aston-villa",
+"away": "spurs",
 "date": "2016-03-12T15:00:00Z"
 },
 {
-"home": "Manchester United FC",
-"away": "Crystal Palace FC",
+"home": "man-utd",
+"away": "crystal-palace",
 "date": "2016-03-12T15:00:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "Manchester City FC",
+"home": "norwich",
+"away": "man-city",
 "date": "2016-03-12T15:00:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "Watford FC",
+"home": "west-ham",
+"away": "watford",
 "date": "2016-03-12T15:00:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "Everton FC",
+"home": "sunderland",
+"away": "everton",
 "date": "2016-03-12T15:00:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "West Bromwich Albion FC",
+"home": "arsenal",
+"away": "west-brom",
 "date": "2016-03-12T15:00:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "Newcastle United FC",
+"home": "leicester",
+"away": "newcastle",
 "date": "2016-03-12T15:00:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "Norwich City FC",
+"home": "west-brom",
+"away": "norwich",
 "date": "2016-03-19T15:00:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "Sunderland AFC",
+"home": "newcastle",
+"away": "sunderland",
 "date": "2016-03-19T15:00:00Z"
 },
 {
-"home": "Watford FC",
-"away": "Stoke City FC",
+"home": "watford",
+"away": "stoke",
 "date": "2016-03-19T15:00:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "Aston Villa FC",
+"home": "swansea",
+"away": "aston-villa",
 "date": "2016-03-19T15:00:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "Manchester United FC",
+"home": "man-city",
+"away": "man-utd",
 "date": "2016-03-19T15:00:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "AFC Bournemouth",
+"home": "spurs",
+"away": "bournemouth",
 "date": "2016-03-19T15:00:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "West Ham United FC",
+"home": "chelsea",
+"away": "west-ham",
 "date": "2016-03-19T15:00:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "Leicester City FC",
+"home": "crystal-palace",
+"away": "leicester",
 "date": "2016-03-19T15:00:00Z"
 },
 {
-"home": "Everton FC",
-"away": "Arsenal FC",
+"home": "everton",
+"away": "arsenal",
 "date": "2016-03-19T15:00:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "Liverpool FC",
+"home": "southampton",
+"away": "liverpool",
 "date": "2016-03-19T15:00:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "Manchester City FC",
+"home": "bournemouth",
+"away": "man-city",
 "date": "2016-04-02T14:00:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "Swansea City FC",
+"home": "stoke",
+"away": "swansea",
 "date": "2016-04-02T14:00:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "Watford FC",
+"home": "arsenal",
+"away": "watford",
 "date": "2016-04-02T14:00:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "Crystal Palace FC",
+"home": "west-ham",
+"away": "crystal-palace",
 "date": "2016-04-02T14:00:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "West Bromwich Albion FC",
+"home": "sunderland",
+"away": "west-brom",
 "date": "2016-04-02T14:00:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "Newcastle United FC",
+"home": "norwich",
+"away": "newcastle",
 "date": "2016-04-02T14:00:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "Chelsea FC",
+"home": "aston-villa",
+"away": "chelsea",
 "date": "2016-04-02T14:00:00Z"
 },
 {
-"home": "Manchester United FC",
-"away": "Everton FC",
+"home": "man-utd",
+"away": "everton",
 "date": "2016-04-02T14:00:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "Southampton FC",
+"home": "leicester",
+"away": "southampton",
 "date": "2016-04-02T14:00:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "Tottenham Hotspur FC",
+"home": "liverpool",
+"away": "spurs",
 "date": "2016-04-02T14:00:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "Norwich City FC",
+"home": "crystal-palace",
+"away": "norwich",
 "date": "2016-04-09T14:00:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "West Bromwich Albion FC",
+"home": "man-city",
+"away": "west-brom",
 "date": "2016-04-09T14:00:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "Manchester United FC",
+"home": "spurs",
+"away": "man-utd",
 "date": "2016-04-09T14:00:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "Stoke City FC",
+"home": "liverpool",
+"away": "stoke",
 "date": "2016-04-09T14:00:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "AFC Bournemouth",
+"home": "aston-villa",
+"away": "bournemouth",
 "date": "2016-04-09T14:00:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "Arsenal FC",
+"home": "west-ham",
+"away": "arsenal",
 "date": "2016-04-09T14:00:00Z"
 },
 {
-"home": "Watford FC",
-"away": "Everton FC",
+"home": "watford",
+"away": "everton",
 "date": "2016-04-09T14:00:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "Chelsea FC",
+"home": "swansea",
+"away": "chelsea",
 "date": "2016-04-09T14:00:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "Leicester City FC",
+"home": "sunderland",
+"away": "leicester",
 "date": "2016-04-09T14:00:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "Newcastle United FC",
+"home": "southampton",
+"away": "newcastle",
 "date": "2016-04-09T14:00:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "Liverpool FC",
+"home": "bournemouth",
+"away": "liverpool",
 "date": "2016-04-16T14:00:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "Watford FC",
+"home": "west-brom",
+"away": "watford",
 "date": "2016-04-16T14:00:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "Tottenham Hotspur FC",
+"home": "stoke",
+"away": "spurs",
 "date": "2016-04-16T14:00:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "Sunderland AFC",
+"home": "norwich",
+"away": "sunderland",
 "date": "2016-04-16T14:00:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "Swansea City FC",
+"home": "newcastle",
+"away": "swansea",
 "date": "2016-04-16T14:00:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "West Ham United FC",
+"home": "leicester",
+"away": "west-ham",
 "date": "2016-04-16T14:00:00Z"
 },
 {
-"home": "Everton FC",
-"away": "Southampton FC",
+"home": "everton",
+"away": "southampton",
 "date": "2016-04-16T14:00:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "Manchester City FC",
+"home": "chelsea",
+"away": "man-city",
 "date": "2016-04-16T14:00:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "Crystal Palace FC",
+"home": "arsenal",
+"away": "crystal-palace",
 "date": "2016-04-16T14:00:00Z"
 },
 {
-"home": "Manchester United FC",
-"away": "Aston Villa FC",
+"home": "man-utd",
+"away": "aston-villa",
 "date": "2016-04-16T14:00:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "Newcastle United FC",
+"home": "liverpool",
+"away": "newcastle",
 "date": "2016-04-23T14:00:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "Chelsea FC",
+"home": "bournemouth",
+"away": "chelsea",
 "date": "2016-04-23T14:00:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "Arsenal FC",
+"home": "sunderland",
+"away": "arsenal",
 "date": "2016-04-23T14:00:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "Southampton FC",
+"home": "aston-villa",
+"away": "southampton",
 "date": "2016-04-23T14:00:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "Everton FC",
+"home": "crystal-palace",
+"away": "everton",
 "date": "2016-04-23T14:00:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "Swansea City FC",
+"home": "leicester",
+"away": "swansea",
 "date": "2016-04-23T14:00:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "Stoke City FC",
+"home": "man-city",
+"away": "stoke",
 "date": "2016-04-23T14:00:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "Watford FC",
+"home": "norwich",
+"away": "watford",
 "date": "2016-04-23T14:00:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "West Bromwich Albion FC",
+"home": "spurs",
+"away": "west-brom",
 "date": "2016-04-23T14:00:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "Manchester United FC",
+"home": "west-ham",
+"away": "man-utd",
 "date": "2016-04-23T14:00:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "West Ham United FC",
+"home": "west-brom",
+"away": "west-ham",
 "date": "2016-04-30T14:00:00Z"
 },
 {
-"home": "Watford FC",
-"away": "Aston Villa FC",
+"home": "watford",
+"away": "aston-villa",
 "date": "2016-04-30T14:00:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "Liverpool FC",
+"home": "swansea",
+"away": "liverpool",
 "date": "2016-04-30T14:00:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "Sunderland AFC",
+"home": "stoke",
+"away": "sunderland",
 "date": "2016-04-30T14:00:00Z"
 },
 {
-"home": "Everton FC",
-"away": "AFC Bournemouth",
+"home": "everton",
+"away": "bournemouth",
 "date": "2016-04-30T14:00:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "Norwich City FC",
+"home": "arsenal",
+"away": "norwich",
 "date": "2016-04-30T14:00:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "Tottenham Hotspur FC",
+"home": "chelsea",
+"away": "spurs",
 "date": "2016-04-30T14:00:00Z"
 },
 {
-"home": "Manchester United FC",
-"away": "Leicester City FC",
+"home": "man-utd",
+"away": "leicester",
 "date": "2016-04-30T14:00:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "Crystal Palace FC",
+"home": "newcastle",
+"away": "crystal-palace",
 "date": "2016-04-30T14:00:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "Manchester City FC",
+"home": "southampton",
+"away": "man-city",
 "date": "2016-04-30T14:00:00Z"
 },
 {
-"home": "Leicester City FC",
-"away": "Everton FC",
+"home": "leicester",
+"away": "everton",
 "date": "2016-05-07T14:00:00Z"
 },
 {
-"home": "Crystal Palace FC",
-"away": "Stoke City FC",
+"home": "crystal-palace",
+"away": "stoke",
 "date": "2016-05-07T14:00:00Z"
 },
 {
-"home": "Liverpool FC",
-"away": "Watford FC",
+"home": "liverpool",
+"away": "watford",
 "date": "2016-05-07T14:00:00Z"
 },
 {
-"home": "Aston Villa FC",
-"away": "Newcastle United FC",
+"home": "aston-villa",
+"away": "newcastle",
 "date": "2016-05-07T14:00:00Z"
 },
 {
-"home": "Norwich City FC",
-"away": "Manchester United FC",
+"home": "norwich",
+"away": "man-utd",
 "date": "2016-05-07T14:00:00Z"
 },
 {
-"home": "Sunderland AFC",
-"away": "Chelsea FC",
+"home": "sunderland",
+"away": "chelsea",
 "date": "2016-05-07T14:00:00Z"
 },
 {
-"home": "Tottenham Hotspur FC",
-"away": "Southampton FC",
+"home": "spurs",
+"away": "southampton",
 "date": "2016-05-07T14:00:00Z"
 },
 {
-"home": "Manchester City FC",
-"away": "Arsenal FC",
+"home": "man-city",
+"away": "arsenal",
 "date": "2016-05-07T14:00:00Z"
 },
 {
-"home": "West Ham United FC",
-"away": "Swansea City FC",
+"home": "west-ham",
+"away": "swansea",
 "date": "2016-05-07T14:00:00Z"
 },
 {
-"home": "AFC Bournemouth",
-"away": "West Bromwich Albion FC",
+"home": "bournemouth",
+"away": "west-brom",
 "date": "2016-05-07T14:00:00Z"
 },
 {
-"home": "Chelsea FC",
-"away": "Leicester City FC",
+"home": "chelsea",
+"away": "leicester",
 "date": "2016-05-15T14:00:00Z"
 },
 {
-"home": "Everton FC",
-"away": "Norwich City FC",
+"home": "everton",
+"away": "norwich",
 "date": "2016-05-15T14:00:00Z"
 },
 {
-"home": "Newcastle United FC",
-"away": "Tottenham Hotspur FC",
+"home": "newcastle",
+"away": "spurs",
 "date": "2016-05-15T14:00:00Z"
 },
 {
-"home": "Southampton FC",
-"away": "Crystal Palace FC",
+"home": "southampton",
+"away": "crystal-palace",
 "date": "2016-05-15T14:00:00Z"
 },
 {
-"home": "Stoke City FC",
-"away": "West Ham United FC",
+"home": "stoke",
+"away": "west-ham",
 "date": "2016-05-15T14:00:00Z"
 },
 {
-"home": "Swansea City FC",
-"away": "Manchester City FC",
+"home": "swansea",
+"away": "man-city",
 "date": "2016-05-15T14:00:00Z"
 },
 {
-"home": "Watford FC",
-"away": "Sunderland AFC",
+"home": "watford",
+"away": "sunderland",
 "date": "2016-05-15T14:00:00Z"
 },
 {
-"home": "West Bromwich Albion FC",
-"away": "Liverpool FC",
+"home": "west-brom",
+"away": "liverpool",
 "date": "2016-05-15T14:00:00Z"
 },
 {
-"home": "Arsenal FC",
-"away": "Aston Villa FC",
+"home": "arsenal",
+"away": "aston-villa",
 "date": "2016-05-15T14:00:00Z"
 },
 {
-"home": "Manchester United FC",
-"away": "AFC Bournemouth",
+"home": "man-utd",
+"away": "bournemouth",
 "date": "2016-05-15T14:00:00Z"
 }
 ]
